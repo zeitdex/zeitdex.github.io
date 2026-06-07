@@ -47,6 +47,10 @@ nav:
       - Circadian rhythm & zeitgebers: basics/circadian-rhythm.md
   - Conditions:
       - Non-24: conditions/non-24.md
+  - Create a diary:
+      - Overview: create/index.md
+      - Supported formats: create/formats.md
+      - Reconstruct a diary: create/reconstruct.md
   - Sleeping patterns:
       - Overview: patterns/index.md
       - Trouble getting to sleep on time: patterns/late-sleep.md
