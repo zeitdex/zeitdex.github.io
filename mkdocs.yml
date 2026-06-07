@@ -36,6 +36,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - tables
   - toc:
       permalink: true
@@ -46,6 +47,11 @@ nav:
       - Circadian rhythm & zeitgebers: basics/circadian-rhythm.md
   - Conditions:
       - Non-24: conditions/non-24.md
+  - Sleeping patterns:
+      - Overview: patterns/index.md
+      - Trouble getting to sleep on time: patterns/late-sleep.md
+      - Trouble sticking to a bedtime: patterns/day-length.md
+      - Block out sunlight: patterns/sunlight.md
   - Find a specialist: find-a-specialist.md
   - Tracking:
       - Using Zeitlog: tracking/using-zeitlog.md
