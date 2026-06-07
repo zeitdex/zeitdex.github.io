@@ -1,23 +1,41 @@
 # Sleeping patterns
 
-![Someone who sleeps from about 10pm to about 6am](normal.svg){ width="360" }
+This section describes common patterns of sleep, and how to manage them. [The Zeitlog dashboard](https://zeitlog.github.io/) tries to detect some of them automatically — the algorithm it uses is in [patterns.js](https://github.com/zeitlog/info/blob/main/src/patterns.js).
 
-This section discusses common patterns of sleep, and how to manage them.
+<div class="grid cards" markdown>
 
-[The Zeitlog dashboard](https://zeitlog.github.io/) tries to detect some patterns automatically. The algorithm it uses is available in [patterns.js](https://github.com/zeitlog/info/blob/main/src/patterns.js).
+-   **A typical pattern**
 
-## Trouble getting to sleep on time
+    ---
 
-![Someone with trouble getting to sleep on time](late-sleep.svg){ width="360" }
+    ![Someone who sleeps from about 10pm to about 6am](normal.svg)
 
-This is a pattern where your natural bedtime is later than you would like, but stays the same over time. For more information about this pattern, see [trouble getting to sleep on time](late-sleep.md).
+    Sleeping from about 10&nbsp;pm to about 6&nbsp;am.
 
-## Trouble sticking to a bedtime
+-   **Trouble getting to sleep on time**
 
-![Someone with trouble sticking to a bedtime](day-length.svg){ width="360" }
+    ---
 
-This is a pattern where your natural bedtime continually gets later, no matter how late you stay up. For more information about this pattern, see [trouble sticking to a bedtime](day-length.md).
+    ![Someone with trouble getting to sleep on time](late-sleep.svg)
 
-## General information
+    Your natural bedtime is later than you would like, but stays the same over time.
 
-People who sleep at unusual times often have to deal with sleeping in a sunlit room. For help dealing with this, see [block out sunlight](sunlight.md).
+    [:octicons-arrow-right-24: Learn more](late-sleep.md)
+
+-   **Trouble sticking to a bedtime**
+
+    ---
+
+    ![Someone with trouble sticking to a bedtime](day-length.svg)
+
+    Your natural bedtime continually gets later, no matter how late you stay up.
+
+    [:octicons-arrow-right-24: Learn more](day-length.md)
+
+</div>
+
+## Sleeping in daylight
+
+People who sleep at unusual times often have to deal with sleeping in a sunlit room — which can badly hurt the quality and quantity of your sleep.
+
+[:material-weather-sunny: How to block out sunlight](sunlight.md){ .md-button }

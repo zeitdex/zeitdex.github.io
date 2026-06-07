@@ -8,5 +8,5 @@ Some people manage to identify specific issues that disrupt their sleep, like dr
 
 ## See also
 
-* [Delayed Sleep Phase Disorder subreddit](https://www.reddit.com/r/DSPD/)
-* [Dealing with sunlight while you're asleep](sunlight.md)
+- :material-reddit: [Delayed Sleep Phase Disorder subreddit](https://www.reddit.com/r/DSPD/)
+- :material-weather-sunny: [Dealing with sunlight while you're asleep](sunlight.md)

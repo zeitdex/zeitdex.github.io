@@ -1,0 +1,32 @@
+/* Center helper for standalone diagrams/images */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Float helper for inline thumbnails next to prose */
+.right {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 45%;
+}
+
+@media screen and (max-width: 44.9em) {
+  .right {
+    float: none;
+    margin: 0 auto 1rem;
+    max-width: 100%;
+  }
+}
+
+/* Give grid-card icons a little breathing room */
+.md-typeset .grid.cards > :is(ul, ol) > li > :first-child,
+.md-typeset .grid > .card > :first-child {
+  margin-top: 0;
+}
+
+/* Pattern diagrams read better with a subtle frame in dark mode */
+[data-md-color-scheme="slate"] .center[src$=".svg"] {
+  border-radius: 0.2rem;
+}

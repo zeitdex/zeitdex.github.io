@@ -4,7 +4,7 @@ Minimising your exposure to sunlight while you're in bed can drastically improve
 
 ## Blackout curtains
 
-[![Window obscured by blackout curtains](blackout-curtains-thumbnail.jpg){ width="220" }](blackout-curtains.jpg)
+[![Window obscured by blackout curtains](blackout-curtains-thumbnail.jpg){ .right width="220" }](blackout-curtains.jpg)
 
 [Blackout fabric](https://en.wikipedia.org/wiki/Blackout_(fabric)) is a light, thin material that keeps a room far darker than ordinary curtains. Here are some common solutions that use blackout fabric.
 
@@ -28,13 +28,13 @@ Blackout curtains can also help manage the temperature in your bedroom. Open you
 
 ## Home-made barriers
 
-[![Window obscured by wood, fabric and curtains](curtains-thumbnail.jpg){ width="220" }](curtains.jpg)
+[![Window obscured by wood, fabric and curtains](curtains-thumbnail.jpg){ .right width="220" }](curtains.jpg)
 
 If blackout blinds aren't appropriate, there are a variety of alternatives you can make yourself. This section describes some barriers to sunlight that combine to provide good protection.
 
 **Hard sheets of material**. These block a lot of light, but leave gaps that disrupt the illusion of night-time. This can be as simple as some old cardboard boxes, but you might find they leave too many slivers of light. Proper cardboard sheets are cheap and available online. Other materials work fine (like hardboard), but tend to be more expensive for no extra benefit.
 
-[![Window obscured by fabric and a box pelmet](box-pelmet-thumbnail.jpg){ width="220" }](box-pelmet.jpg)
+[![Window obscured by fabric and a box pelmet](box-pelmet-thumbnail.jpg){ .right width="220" }](box-pelmet.jpg)
 
 **DIY box pelmet**. These block light from escaping over the top of a curtain rail. A box pelmet is essentially just a few planks of wood attached to a wall with a keyhole hanger, so anyone with moderate DIY skill should be able to make one using an online tutorial.
 
@@ -42,7 +42,7 @@ If blackout blinds aren't appropriate, there are a variety of alternatives you c
 
 ### Strengths and weaknesses
 
-[![Barriers laid out on the floor, with fabric bleached by the sun](barriers-thumbnail.jpg){ width="220" }](barriers.jpg)
+[![Barriers laid out on the floor, with fabric bleached by the sun](barriers-thumbnail.jpg){ .right width="220" }](barriers.jpg)
 
 These solutions can almost eliminate sunlight from a room at low- or zero-cost, and can be adapted for many different types of window.
 
@@ -52,7 +52,7 @@ One important weakness is that home-made barriers can make it difficult to see y
 
 ## Sleep masks
 
-[![Home-made mask using balaclava and blackout fabric](ski-mask-thumbnail.jpg){ width="220" }](ski-mask.jpg)
+[![Home-made mask using balaclava and blackout fabric](ski-mask-thumbnail.jpg){ .right width="220" }](ski-mask.jpg)
 
 If you can't darken your bedroom at all, a last resort is to at least stop sunlight getting into your eyes. This section discusses some ways to achieve that.
 

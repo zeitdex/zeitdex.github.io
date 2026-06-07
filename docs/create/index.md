@@ -2,87 +2,70 @@
 
 A sleep diary is a record of sleep-related events. This can be as simple as a paper record of your wake and sleep times, or it can be a record of everything you think might be related, or even a tool to automatically measure your activity.
 
-!!! tip
+!!! tip "The golden rule"
     The best sleep diary is the one you can sustain in the real world.
 
 Maintaining a sleep diary is a surprisingly personal experience. You need to think about it in the moments before you close your eyes at night and after you wake up in the morning, so a diary that seems bold when you're wide awake can be an unmanageable chore as you rub the sleep from your eyes.
 
-This page discusses several solutions. Pick whichever one you prefer, and don't be afraid to try things out and switch if they're not working.
+Pick whichever approach below you prefer, and don't be afraid to try things out and switch if they're not working.
 
-## Official forms
+## :material-file-certificate-outline: Official forms
 
-If the goal of your sleep diary is to convince an organisation that has specific requirements, it's usually best to use the form they provide.
+If the goal of your sleep diary is to convince an organisation that has specific requirements, it's usually best to use the form they provide. This is the most effective way to make your case, but can make it hard to do your own analysis — so you might prefer to keep two diaries at once: the one they give you, and your preferred one from below.
 
-Using an official form is the most effective way to make your case, but can make it hard to do your own analysis. You might prefer to maintain two diaries at once — the one they give you and your preferred one from the list below.
+[:material-map-marker-account: Browse forms in the specialist directory](../find-a-specialist.md){ .md-button }
 
-[The specialist directory](../find-a-specialist.md) includes some examples of official forms.
+## :material-pencil-ruler: Hand-made diaries
 
-## Hand-made diaries
-
-The easiest way to get started is to record your sleep in a spreadsheet or on paper.
-
-The main benefit of a hand-made diary is flexibility. You can add and remove fields when you think of them, and even doodle on a paper diary. This can be useful at first when you're still learning, but can make analysis hard later on.
-
-The benefit of a pencil-and-paper diary is that it's completely disconnected from the digital world. You can keep it by your bed, you don't have to plug it in, and it won't tempt you to check Twitter. On the other hand, the benefit of a spreadsheet is that you can analyse it or convert it to other formats in future.
+The easiest way to get started is to record your sleep in a spreadsheet or on paper. The main benefit is flexibility — you can add and remove fields when you think of them, and even doodle on a paper diary. A pencil-and-paper diary is also completely disconnected from the digital world, while a spreadsheet can be analysed or converted to other formats later.
 
 ### Hand-made tables
 
-[![A sleep table in an Excel spreadsheet](SleepTable.png){ width="220" }](SleepTable.xlsx)
+[![A sleep table in an Excel spreadsheet](SleepTable.png){ .right width="240" }](SleepTable.xlsx)
 
 Some people prefer to record their diary as a table of numbers. This can be easier, because you just write whatever your watch says when you go to bed and wake up.
 
 !!! tip
     Write dates in 24-hour format.
 
-Hand-made tables may be the easiest way to get started, but they can require more discipline than digital formats. For example, if you see an entry that claims you went to bed at *1:30* one day last week, you might wonder if you meant to write *11:30* instead. It's not hard to think of a solution to that problem, but it can be hard to actually muster the effort in the real world. If you start blaming yourself for not maintaining that discipline, consider switching to a digital solution that will do the boring parts for you.
+Hand-made tables may be the easiest way to get started, but they can require more discipline than digital formats. For example, if you see an entry that claims you went to bed at *1:30* one day last week, you might wonder if you meant to write *11:30* instead. If you find yourself blaming yourself for not keeping that discipline, consider switching to a digital solution that does the boring parts for you.
 
-[Download a sleep table](SleepTable.xlsx) you can use or copy for inspiration.
+[:material-download: Download the sleep table (.xlsx)](SleepTable.xlsx){ .md-button }
 
 ### Hand-made graphs
 
-[![A sleep graph in an Excel spreadsheet](SleepGraph.png){ width="220" }](SleepGraph.xlsx)
+[![A sleep graph in an Excel spreadsheet](SleepGraph.png){ .right width="240" }](SleepGraph.xlsx)
 
 A more visual solution is to mark out 24 columns (or 24 rows), then shade in the times when you're awake and asleep. You'll need a ruler to do this on paper, but the result can be more intuitive because you can see your sleeping pattern at a glance.
 
 !!! tip
     Make the wake and sleep periods as distinct as possible, preferably by shading boxes to indicate sleep times.
 
-[Download a sleep graph](SleepGraph.xlsx) you can use or copy for inspiration.
+[:material-download: Download the sleep graph (.xlsx)](SleepGraph.xlsx){ .md-button }
 
 ### Sleep Disorder Patient Charts
 
-The Sleep Disorder Patient Chart, pioneered by [Harvey Moldofsky](http://sites.utoronto.ca/pain/about-us/profile/harvey-moldofsky.html) and [James G. Macfarlane](https://www.psychiatry.utoronto.ca/faculty/james-g-macfarlane) in the early 1990s, has come to be widely used by sleep doctors around the world. The exact layout differs slightly between organisations, but they're usually similar.
+The Sleep Disorder Patient Chart, pioneered by [Harvey Moldofsky](http://sites.utoronto.ca/pain/about-us/profile/harvey-moldofsky.html) and [James G. Macfarlane](https://www.psychiatry.utoronto.ca/faculty/james-g-macfarlane) in the early 1990s, has come to be widely used by sleep doctors around the world. The exact layout differs between organisations, but they're usually similar.
 
-It can be hard to sustain the amount of data this chart requires, because you need to track multiple events throughout your day. You might prefer to use this format when you're waiting for an appointment with a sleep doctor, but something easier the rest of the time.
+It can be hard to sustain the amount of data this chart requires, because you need to track multiple events throughout your day. You might prefer to use this format while you're waiting for an appointment with a sleep doctor, but something easier the rest of the time.
 
-[The dashboard](https://zeitlog.github.io/) has a *printable report* that resembles a Sleep Disorder Patient Chart, and can be constructed from many diary formats (including spreadsheet files like those above).
+[The Zeitlog dashboard](https://zeitlog.github.io/) has a *printable report* that resembles a Sleep Disorder Patient Chart, and can be built from many diary formats (including the spreadsheets above).
 
-[Download an example chart](https://sleepsupportproject.org/wp-content/uploads/2020/11/sleep-diary-BLANK.pdf) from the Sleep Support Project.
+[:material-file-pdf-box: Example chart (Sleep Support Project)](https://sleepsupportproject.org/wp-content/uploads/2020/11/sleep-diary-BLANK.pdf){ .md-button }
 
-## Software diaries
+## :material-cellphone-cog: Software, apps & devices
 
-There are several programs to help maintain a sleep diary. They all have strengths and weaknesses, and it's best to try them and see what works for you.
+There are several programs and devices to help maintain a sleep diary. They all have strengths and weaknesses, so it's best to try them and see what works for you.
 
-### Specialised devices
+- **Specialised devices** — if you already use an [activity tracker](https://en.wikipedia.org/wiki/Activity_tracker) such as a [Fitbit](https://en.wikipedia.org/wiki/List_of_Fitbit_products) or [Samsung Galaxy Watch](https://en.wikipedia.org/wiki/Samsung_Galaxy_Watch), you can often add sleep tracking. These track automatically, so you get more detail without writing anything down — but they might not capture whether you were *actually* asleep or just lying still.
+- **Mobile apps** — apps like [Sleepmeter](http://www.squalllinesoftware.com/?q=node/2) and [Sleep as Android](https://sleep.urbandroid.org/) sit by your bedside without a dedicated device, and most app stores have several to try.
 
-If you already use an [activity tracker](https://en.wikipedia.org/wiki/Activity_tracker), you might be able to add sleep tracking to it. In simple terms, a device that can tell the difference between a resting and exercising heart rate can also tell the difference between a resting and sleeping heart rate.
+[:material-cellphone-cog: Browse the software directory](software.md){ .md-button .md-button--primary }
+&nbsp;
+[:material-import: Supported import formats](formats.md){ .md-button }
 
-The main benefit of an activity tracker is that it automatically tracks your status, so you get more detailed information and don't have to write anything down. But that means it might not accurately capture your experience — for example, whether you're actually sleeping or just lying down and waiting for sleep to come.
+## :material-history: Reconstructing a diary
 
-Common trackers include [Fitbit](https://en.wikipedia.org/wiki/List_of_Fitbit_products) and [Samsung Galaxy Watch](https://en.wikipedia.org/wiki/Samsung_Galaxy_Watch), but you should research which device is best for you.
+A lot of software records when events happen — your calendar has start and end times, and your browser cache stores when you visited each page. Reconstructing a diary from such sources is technical and often inaccurate, but it can give you an idea of your past sleep trends.
 
-### Mobile apps
-
-There are a variety of mobile apps to track your sleep. Some just record the sleep times you enter, others use the microphone or other sensors to gather more detailed information.
-
-The main benefit of a mobile app is that you can keep it by your bedside, without buying a specialised device. And because most app stores have several available apps, you can try different ones to see which you prefer.
-
-Common mobile apps include [Sleepmeter](http://www.squalllinesoftware.com/?q=node/2) and [Sleep as Android](https://sleep.urbandroid.org/), but you might find something you prefer on your device's app store.
-
-[The dashboard](https://zeitlog.github.io/) can read files created by most mobile apps. See [the list of supported formats](formats.md).
-
-## Reconstructing a diary
-
-A lot of software records the moment or time period where an event happens. For example, your calendar has start and end times for events; and your browser cache stores the time you visited each page. Reconstructing a diary from such sources is quite technical and often inaccurate, but it can give you an idea about your past sleep trends.
-
-See [reconstruct a sleep diary](reconstruct.md) for instructions.
+[:material-history: Reconstruct a sleep diary](reconstruct.md){ .md-button }

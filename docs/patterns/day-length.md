@@ -27,7 +27,8 @@ The most common problems with an unusual day length are very practical. For exam
 
 [**Vitamin D**](https://en.wikipedia.org/wiki/Vitamin_D). This is an important compound for health, which you naturally make when your skin is exposed to the sun. But it's hard to make enough vitamin D if you're awake at night half the time, so you might need to get it from foods or supplements instead. This also depends on your lifestyle and the country you live in, so you should look for advice in your country (or from your doctor). For example, the UK isn't a particularly sunny country and [the NHS advice on vitamin D](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/) mentions sunlight exposure as one of many variables to consider.
 
-**Carbon monoxide**. This unlikely issue is easy to rule out, but dangerous enough to take seriously. It's theoretically possible a boiler leaking carbon monoxide could cause a sleeping disorder as the only symptom, and a [carbon monoxide detector](https://en.wikipedia.org/wiki/Carbon_monoxide_detector) will quickly confirm that isn't what's happening. In any case, a carbon monoxide detector is as much of a household necessity as a fire alarm.
+!!! danger "Rule out carbon monoxide"
+    This unlikely issue is easy to rule out, but dangerous enough to take seriously. It's theoretically possible a boiler leaking carbon monoxide could cause a sleeping disorder as the only symptom, and a [carbon monoxide detector](https://en.wikipedia.org/wiki/Carbon_monoxide_detector) will quickly confirm that isn't what's happening. In any case, a carbon monoxide detector is as much of a household necessity as a fire alarm.
 
 **Keeping appointments**. Appointments need to be handled carefully if your sleeping pattern is unpredictable. Organisations are unlikely to understand if you say you have a sleeping disorder, so it may be better to say you work shifts and don't know your timing far in advance. They might let you make two appointments a few hours (or a few weeks) apart, on the understanding you'll cancel one nearer the time. Or if you know someone else with a similar appointment, you might be able to book two appointments and swap them over if necessary. For example, say you book a morning dental check-up for yourself and an afternoon check-up for a housemate. Then if you find yourself waking up at noon, you can call up and ask for your housemate to take the morning check-up instead.
 
@@ -39,8 +40,8 @@ Once you know your minimum and maximum average day length, planning social event
 
 ## See also
 
-* [Non-24 subreddit](https://www.reddit.com/r/N24/)
-* [Non-24 discord server](https://discord.gg/dzzT546)
-* [VLiDACMel entrainment therapy](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html)
-* [Overview and treatment options for non-24](https://www.uspharmacist.com/article/non-24-hour-sleep-wake-disorder-disease-overview-and-treatment-options)
-* [Dealing with sunlight while you're asleep](sunlight.md)
+- :material-reddit: [Non-24 subreddit](https://www.reddit.com/r/N24/)
+- :material-forum: [Non-24 Discord server](https://discord.gg/dzzT546)
+- :material-medical-bag: [VLiDACMel entrainment therapy](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html)
+- :material-file-document-outline: [Overview and treatment options for Non-24](https://www.uspharmacist.com/article/non-24-hour-sleep-wake-disorder-disease-overview-and-treatment-options)
+- :material-weather-sunny: [Dealing with sunlight while you're asleep](sunlight.md)
