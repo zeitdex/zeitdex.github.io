@@ -1,0 +1,47 @@
+site_name: Zeitdex
+site_description: Community resources and documentation for circadian rhythm disorders (CRDs), including Non-24.
+site_url: https://zeitdex.github.io/
+repo_url: https://github.com/zeitdex/zeitdex.github.io
+repo_name: zeitdex/zeitdex.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.action.edit
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Basics:
+      - Circadian rhythm & zeitgebers: basics/circadian-rhythm.md
+  - Conditions:
+      - Non-24: conditions/non-24.md
+  - Tracking:
+      - Using Zeitlog: tracking/using-zeitlog.md
+  - Resources:
+      - Links & communities: resources/links.md
+  - Contributing: contributing.md
