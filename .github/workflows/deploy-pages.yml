@@ -20,6 +20,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check out resources data
+        # The compiled specialist data (entities.json) lives on the resources
+        # repo's "built" branch; the directory generator reads it from here.
+        uses: actions/checkout@v4
+        with:
+          repository: zeitdex/resources
+          ref: built
+          path: resources-src
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'

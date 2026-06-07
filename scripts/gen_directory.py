@@ -17,18 +17,25 @@ import urllib.request
 
 import mkdocs_gen_files
 
+# entities.json is generated (gitignored on main) and published on the
+# resources repo's "built" branch. CI checks that out to resources-src/.
 LOCAL = "resources-src/entities.json"
-RAW_URL = "https://raw.githubusercontent.com/zeitdex/resources/main/entities.json"
+RAW_URL = "https://raw.githubusercontent.com/zeitdex/resources/built/entities.json"
 OUT = "find-a-specialist.md"
 
 
 def load_records():
-    if os.path.exists(LOCAL):
-        with open(LOCAL, encoding="utf-8") as handle:
-            data = json.load(handle)
-    else:
-        with urllib.request.urlopen(RAW_URL, timeout=30) as response:
-            data = json.loads(response.read().decode("utf-8"))
+    try:
+        if os.path.exists(LOCAL):
+            with open(LOCAL, encoding="utf-8") as handle:
+                data = json.load(handle)
+        else:
+            with urllib.request.urlopen(RAW_URL, timeout=30) as response:
+                data = json.loads(response.read().decode("utf-8"))
+    except (OSError, ValueError) as exc:
+        # No data checkout (e.g. offline local preview): degrade gracefully.
+        print(f"gen_directory: could not load specialist data ({exc})")
+        return []
     return data.get("specialist", {}).get("records", [])
 
 
@@ -104,6 +111,8 @@ def main():
         "many specialists not yet listed here.",
         "",
     ]
+    if not records:
+        lines += ["_The specialist directory could not be loaded for this build._", ""]
     for rec in records:
         lines += render(rec)
 
