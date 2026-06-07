@@ -38,6 +38,10 @@ markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 
@@ -50,6 +54,7 @@ nav:
   - Create a diary:
       - Overview: create/index.md
       - Supported formats: create/formats.md
+      - Software: create/software.md
       - Reconstruct a diary: create/reconstruct.md
   - Sleeping patterns:
       - Overview: patterns/index.md
