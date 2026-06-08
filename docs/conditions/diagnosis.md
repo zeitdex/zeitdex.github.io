@@ -51,10 +51,7 @@ Part of the work-up is distinguishing Non-24 from conditions that can resemble i
 - **Delayed sleep-wake phase disorder (DSPD).** A late but *stable* schedule, rather than one that keeps drifting. DSPD can sometimes progress into Non-24. (See the [Overview](non-24.md) for how the circadian disorders relate.)
 - **Irregular sleep-wake rhythm.** Sleep broken into several episodes across the day *without* a clear marching pattern.
 - **Shift work and behavioural causes.** An irregular environment or schedule can mimic a circadian disorder; a free-running record helps separate these.
-- **Comorbid sleep disorders.** Conditions like sleep apnea don't cause Non-24, but treating them improves sleep quality — and untreated, they can make any entrainment attempt harder. It's worth checking for them either way.
-
-!!! danger "Rule out carbon monoxide"
-    Rare, but easy to exclude and dangerous enough to take seriously: a boiler leaking carbon monoxide can disturb sleep. A [carbon monoxide detector](https://en.wikipedia.org/wiki/Carbon_monoxide_detector) settles the question quickly, and is a household necessity regardless.
+- **Comorbid sleep disorders.** Conditions like sleep apnea don't cause Non-24, but treating them improves sleep quality — and untreated, they can make any entrainment attempt harder. It's worth checking for them either way.[^co]
 
 ## Blind and sighted Non-24
 
@@ -82,3 +79,5 @@ Getting a formal diagnosis can be slow and frustrating, but it matters:
 
 !!! note "Contributions welcome"
     Clinician-reviewed detail, links to diagnostic criteria, and lived-experience notes on getting diagnosed would all improve this page — [contribute here](../contributing.md).
+
+[^co]: A practical aside rather than a likely cause: poor sleep has many sources, and there is no good evidence that carbon monoxide poisoning presents as a circadian rhythm disorder. A [carbon monoxide detector](https://en.wikipedia.org/wiki/Carbon_monoxide_detector) is simply a cheap household safeguard worth having regardless.
