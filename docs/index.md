@@ -30,6 +30,14 @@ Zeitdex collects plain-language explanations, practical guidance, and a communit
 
     [:octicons-arrow-right-24: Understanding Non-24](conditions/non-24.md)
 
+-   :material-family-tree:{ .lg .middle } &nbsp; **Other circadian disorders**
+
+    ---
+
+    DSPD, advanced sleep phase, irregular rhythm, and shift work disorder.
+
+    [:octicons-arrow-right-24: Other circadian disorders](conditions/other/index.md)
+
 -   :material-notebook-edit-outline:{ .lg .middle } &nbsp; **Create a diary**
 
     ---

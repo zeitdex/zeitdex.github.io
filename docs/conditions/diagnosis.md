@@ -48,9 +48,9 @@ It is also clearest when you are **free-running** — living by your own body cl
 
 Part of the work-up is distinguishing Non-24 from conditions that can resemble it:
 
-- **Delayed sleep-wake phase disorder (DSPD).** A late but *stable* schedule, rather than one that keeps drifting. DSPD can sometimes progress into Non-24. (See the [Overview](non-24.md) for how the circadian disorders relate.)
-- **Irregular sleep-wake rhythm.** Sleep broken into several episodes across the day *without* a clear marching pattern.
-- **Shift work and behavioural causes.** An irregular environment or schedule can mimic a circadian disorder; a free-running record helps separate these.
+- **[Delayed sleep-wake phase disorder (DSPD)](other/dspd-aspd.md).** A late but *stable* schedule, rather than one that keeps drifting. DSPD can sometimes progress into Non-24. (See [Other circadian disorders](other/index.md) for how the family relates.)
+- **[Irregular sleep-wake rhythm](other/iswrd.md).** Sleep broken into several episodes across the day *without* a clear marching pattern.
+- **[Shift work](other/shift-work.md) and behavioural causes.** An irregular environment or schedule can mimic a circadian disorder; a free-running record helps separate these.
 - **Comorbid sleep disorders.** Conditions like sleep apnea don't cause Non-24, but treating them improves sleep quality — and untreated, they can make any entrainment attempt harder. It's worth checking for them either way.[^co]
 
 ## Blind and sighted Non-24

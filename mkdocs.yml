@@ -76,6 +76,11 @@ nav:
           - Trouble getting to sleep on time: patterns/late-sleep.md
           - Trouble sticking to a bedtime: patterns/day-length.md
           - Blocking out sunlight: patterns/sunlight.md
+  - Other circadian disorders:
+      - Overview: conditions/other/index.md
+      - Delayed & advanced sleep phase: conditions/other/dspd-aspd.md
+      - Irregular sleep-wake rhythm: conditions/other/iswrd.md
+      - Shift work disorder: conditions/other/shift-work.md
   - Create a diary:
       - Overview: create/index.md
       - Supported formats: create/formats.md

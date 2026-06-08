@@ -15,7 +15,7 @@ A **zeitgeber** ("time-giver") is an external cue that entrains the circadian cl
 
 </div>
 
-In many circadian rhythm disorders the clock either runs at a period different from 24 hours, or fails to stay entrained to its zeitgebers.
+In many [circadian rhythm disorders](../conditions/other/index.md) the clock either runs at a period different from 24 hours, or fails to stay entrained to its zeitgebers.
 
 !!! note "Contributions welcome"
     This is a starter page. If you can clearly and accurately explain entrainment, the role of melatonin, or light timing, please [improve it](../contributing.md).
@@ -23,6 +23,7 @@ In many circadian rhythm disorders the clock either runs at a period different f
 ## See also
 
 - :material-sleep: [Understanding Non-24](../conditions/non-24.md)
+- :material-family-tree: [Other circadian rhythm disorders](../conditions/other/index.md)
 - :material-pill: [Treatment & management](../conditions/treatment.md)
 - :material-chart-line: [Recognising your pattern](../patterns/index.md)
 - :material-notebook-edit-outline: [Track your rhythm with Zeitlog](../tracking/using-zeitlog.md)
