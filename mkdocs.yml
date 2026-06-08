@@ -66,18 +66,21 @@ nav:
   - Home: index.md
   - Basics:
       - Circadian rhythm & zeitgebers: basics/circadian-rhythm.md
-  - Conditions:
-      - Non-24: conditions/non-24.md
+  - Understanding Non-24:
+      - Overview: conditions/non-24.md
+      - Diagnosis: conditions/diagnosis.md
+      - Treatment: conditions/treatment.md
+      - Research & outlook: conditions/research.md
+      - Recognising your pattern:
+          - Overview: patterns/index.md
+          - Trouble getting to sleep on time: patterns/late-sleep.md
+          - Trouble sticking to a bedtime: patterns/day-length.md
+          - Blocking out sunlight: patterns/sunlight.md
   - Create a diary:
       - Overview: create/index.md
       - Supported formats: create/formats.md
       - Software: create/software.md
       - Reconstruct a diary: create/reconstruct.md
-  - Sleeping patterns:
-      - Overview: patterns/index.md
-      - Trouble getting to sleep on time: patterns/late-sleep.md
-      - Trouble sticking to a bedtime: patterns/day-length.md
-      - Block out sunlight: patterns/sunlight.md
   - Find a specialist: find-a-specialist.md
   - Tracking:
       - Using Zeitlog: tracking/using-zeitlog.md

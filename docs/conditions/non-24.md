@@ -7,6 +7,44 @@ It is common in people who are **totally blind** (with no light perception, the 
 !!! warning "Not medical advice"
     Diagnosis and treatment of Non-24 belong with a qualified clinician. This page is a community overview, not a substitute for medical care.
 
+## In this section
+
+<div class="grid cards" markdown>
+
+-   :material-stethoscope:{ .lg .middle } &nbsp; **Diagnosis**
+
+    ---
+
+    How clinicians identify Non-24, and how to prepare.
+
+    [:octicons-arrow-right-24: Diagnosing Non-24](diagnosis.md)
+
+-   :material-pill:{ .lg .middle } &nbsp; **Treatment**
+
+    ---
+
+    Light, dark, melatonin, medication — and a realistic view.
+
+    [:octicons-arrow-right-24: Treatment & management](treatment.md)
+
+-   :material-flask-outline:{ .lg .middle } &nbsp; **Research**
+
+    ---
+
+    Mechanisms, measurement, and where the science is heading.
+
+    [:octicons-arrow-right-24: Research & outlook](research.md)
+
+-   :material-chart-line:{ .lg .middle } &nbsp; **Recognising your pattern**
+
+    ---
+
+    What the drift looks like on a chart, and living with it.
+
+    [:octicons-arrow-right-24: Recognising your pattern](../patterns/index.md)
+
+</div>
+
 ## Common features
 
 - Sleep onset and wake time that shift progressively later (or earlier) over days to weeks.

@@ -40,6 +40,8 @@ Once you know your minimum and maximum average day length, planning social event
 
 ## See also
 
+- :material-stethoscope: [Diagnosing Non-24](../conditions/diagnosis.md)
+- :material-pill: [Treatment & management](../conditions/treatment.md)
 - :material-reddit: [Non-24 subreddit](https://www.reddit.com/r/N24/)
 - :material-forum: [Non-24 Discord server](https://discord.gg/dzzT546)
 - :material-medical-bag: [VLiDACMel entrainment therapy](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html)

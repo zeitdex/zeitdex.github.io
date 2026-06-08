@@ -22,6 +22,7 @@ In many circadian rhythm disorders the clock either runs at a period different f
 
 ## See also
 
-- :material-sleep: [Non-24-Hour Sleep-Wake Disorder](../conditions/non-24.md)
-- :material-chart-line: [Sleeping patterns](../patterns/index.md)
+- :material-sleep: [Understanding Non-24](../conditions/non-24.md)
+- :material-pill: [Treatment & management](../conditions/treatment.md)
+- :material-chart-line: [Recognising your pattern](../patterns/index.md)
 - :material-notebook-edit-outline: [Track your rhythm with Zeitlog](../tracking/using-zeitlog.md)

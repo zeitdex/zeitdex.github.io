@@ -14,6 +14,7 @@ A curated, community-maintained list of resources on circadian rhythm disorders.
 
 ## Treatment & research
 
+- :material-pill: [Zeitdex: Treatment & management](../conditions/treatment.md) and [Research & outlook](../conditions/research.md) — start here.
 - :material-file-document-outline: [Overview and treatment options for Non-24](https://www.uspharmacist.com/article/non-24-hour-sleep-wake-disorder-disease-overview-and-treatment-options)
 - :material-medical-bag: [VLiDACMel entrainment therapy](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html)
 

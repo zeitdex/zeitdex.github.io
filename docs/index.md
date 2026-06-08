@@ -22,13 +22,13 @@ Zeitdex collects plain-language explanations, practical guidance, and a communit
 
     [:octicons-arrow-right-24: Circadian rhythm & zeitgebers](basics/circadian-rhythm.md)
 
--   :material-sleep:{ .lg .middle } &nbsp; **Non-24**
+-   :material-sleep:{ .lg .middle } &nbsp; **Understanding Non-24**
 
     ---
 
-    The disorder where sleep drifts later each day.
+    The disorder where sleep drifts later each day — what it is, diagnosis, treatment, and research.
 
-    [:octicons-arrow-right-24: Non-24 overview](conditions/non-24.md)
+    [:octicons-arrow-right-24: Understanding Non-24](conditions/non-24.md)
 
 -   :material-notebook-edit-outline:{ .lg .middle } &nbsp; **Create a diary**
 
@@ -38,13 +38,13 @@ Zeitdex collects plain-language explanations, practical guidance, and a communit
 
     [:octicons-arrow-right-24: Create a sleep diary](create/index.md)
 
--   :material-chart-line:{ .lg .middle } &nbsp; **Sleeping patterns**
+-   :material-pill:{ .lg .middle } &nbsp; **Treatment & care**
 
     ---
 
-    Recognise and manage common patterns.
+    Light, dark, melatonin, and medication — with a realistic view.
 
-    [:octicons-arrow-right-24: Sleeping patterns](patterns/index.md)
+    [:octicons-arrow-right-24: Treatment & management](conditions/treatment.md)
 
 -   :material-stethoscope:{ .lg .middle } &nbsp; **Find a specialist**
 

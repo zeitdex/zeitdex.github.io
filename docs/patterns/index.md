@@ -1,6 +1,6 @@
-# Sleeping patterns
+# Recognising your pattern
 
-This section describes common patterns of sleep, and how to manage them. [The Zeitlog dashboard](https://zeitlog.github.io/) tries to detect some of them automatically — the algorithm it uses is in [patterns.js](https://github.com/zeitlog/info/blob/main/src/patterns.js).
+This section describes common patterns of sleep, how to spot them in your own chart, and how to manage them. [The Zeitlog dashboard](https://zeitlog.github.io/) tries to detect some of them automatically — the algorithm it uses is in [patterns.js](https://github.com/zeitlog/info/blob/main/src/patterns.js).
 
 <div class="grid cards" markdown>
 
