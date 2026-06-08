@@ -19,21 +19,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Check out resources data
         # The compiled specialist data (entities.json) lives on the resources
         # repo's "built" branch; the directory generator reads it from here.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: zeitdex/resources
           ref: built
           path: resources-src
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.x'
       - run: pip install -r requirements.txt
       - run: mkdocs build --site-dir _site
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -45,4 +45,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
